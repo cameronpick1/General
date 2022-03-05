@@ -6,7 +6,7 @@ My name is Cameron Pick and this is my Github Page. I currently live in Lincoln,
 # Works/Projects
 1.) Bitcoin Prices project.
 Here I aimed to answer various questions about Bitcoin and it's future.
-<base href="/[https://github.com/cameronpick1/Bitcoin-Prices-Project]/">
+<base href="/https://github.com/cameronpick1/Bitcoin-Prices-Project/">
 
 2.) Customer Churn Project.
 Why do customers stop doing business with a company? In this project, I aimed to answer that question along with others. 
