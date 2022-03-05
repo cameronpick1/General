@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to my Github
 
-You can use the [editor on GitHub](https://github.com/cameronpick1/General/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Cameron Pick and this is my Github Page. I currently live in Lincoln, Nebraska working at a animal vaccine company. I am finishing up my masters at Bellevue University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Works/Projects
+1.) Bitcoin Prices project.
+Here I aimed to answer various questions about Bitcoin and it's future.
+https://github.com/cameronpick1/Bitcoin-Prices-Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2.) Customer Churn Project.
+Why do customers stop doing business with a company? In this project, I aimed to answer that question along with others. 
+https://github.com/cameronpick1/Customer-Churn-Project
 
-```markdown
-Syntax highlighted code block
+3.)Emissions, GDP, and Temperature Change Project
+This project was more of a data visualization project. Nonetheless, I aimed to answer how/if these three are connected. 
+https://github.com/cameronpick1/Emissions-GDP-and-Temperature-Change-Project
 
-# Header 1
-## Header 2
-### Header 3
+4.) Medical Expenses and Insurance Premiums
+How do certain demographic varaibles affect a person's insurance premiums? This project aimed to explore this question.
+https://github.com/cameronpick1/Medical-expenses-and-insurance-premiums-projects-
 
-- Bulleted
-- List
+5.)  Loan Defaults Project
+What factors lead to a customer defaulting on loans? In this project, I explore this quesion. 
+https://github.com/cameronpick1/Loan-Defaults-projects
+## Contact
+I am available at my professional email capick@my365.bellevue.edu or my personal email cameronpickcj@aol.com. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cameronpick1/General/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
